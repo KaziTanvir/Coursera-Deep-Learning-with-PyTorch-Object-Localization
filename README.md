@@ -1,1 +1,5 @@
-# Coursera-Deep-Learning-with-PyTorch-Object-Localization
+Object Localization is the task of locating an instance of a particular object category in an image, typically by specifying a tightly cropped bounding box centered on the instance. In this 2-hour project-based course, you will be able to understand the Object Localization Dataset and you will write a custom dataset class for Image-bounding box dataset. Additionally,  you will apply augmentation for localization task to augment images as well as its effect on bounding box. For localization task augmentation you will use albumentation library. We will plot the (image-bounding box) pair. Thereafter, we will load a pretrained state of the art convolutional neural network using timm library.Moreover, we are going to create train function and evaluator function which will be helpful to write training loop. Lastly, you will use best trained model to find bounding box given any image.
+
+
+Course link: https://www.coursera.org/projects/deep-learning-with-pytorch--object-localization
+Dataset link: https://github.com/parth1620/object-localization-dataset.git
